@@ -134,3 +134,5 @@ DATABASES = {
         "HOST": "sql12.freemysqlhosting.net"
     }
 }
+
+INTERNAL_IPS = ('0.0.0.0',)
