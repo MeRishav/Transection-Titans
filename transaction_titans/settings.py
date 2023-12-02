@@ -135,4 +135,4 @@ DATABASES = {
     }
 }
 
-INTERNAL_IPS = ('0.0.0.0',)
+ALLOWED_HOSTS = ("*")
